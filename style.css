@@ -1,0 +1,23 @@
+#body_bg
+{
+background-color:white;
+}
+
+#login-form{
+
+background:white;
+border: 3 px solid grey;
+padding:9px 9px;
+ width:300px;
+ border-radius:5px;
+}
+
+p{
+padding-top: 60px;
+text-align:left;
+font-size: 30px;
+}
+.button{
+  background-color: green;
+
+}
